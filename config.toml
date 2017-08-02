@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "adsqwe"
+baseURL = "https:\/\/asds.asd.asd"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
